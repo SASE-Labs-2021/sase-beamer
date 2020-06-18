@@ -1,6 +1,5 @@
 # SASE beamer template
 
-A beamer template for SASE presentations. 
+A beamer template for SASE presentations. Upload to [Overleaf](https://overleaf.com) or open in your favorite LaTeX editor.
 
-## Example
-![Example](example.pdf)
+See how an ![example](example.pdf) looks.
